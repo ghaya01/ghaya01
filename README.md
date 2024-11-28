@@ -7,7 +7,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aya-zeghad-207a9733a/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a><a href=" https://www.facebook.com/profile.php?id=100024740268563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.com-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aya-zeghad-207a9733a/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/YourPage](https://www.facebook.com/profile.php?id=100024740268563)" target="_blank">
+  <i class="fab fa-facebook fa-2x"></i>
+</a>
+
+
+
+<a href=" https://www.facebook.com/profile.php?id=100024740268563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
