@@ -1,13 +1,13 @@
  <h1 align="center">Hi 👋, I'm Ghaya</h1>
 <h3 align="center">cat,flowers, Flutter | Computer Science Student 🚀</h3>
 
-<img align="right" height="300" width="400" src="https://github.com/user-attachments/assets/ea901fd7-7183-4b7c-b97b-207ed46f6ee9" alt="giphy">
+<img align="right" height="300" width="400"  style="border-radius: 15px; border: 2px solid #ccc;" src="https://github.com/user-attachments/assets/ea901fd7-7183-4b7c-b97b-207ed46f6ee9" alt="giphy">
 
 
 
 
 <h3 align="left">Connect with me:</h3>
-
+<a href="https://www.linkedin.com/in/aya-zeghad-207a9733a/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
