@@ -6,8 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/aya-zeghad-207a9733a/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href=" https://www.facebook.com/profile.php?id=100024740268563" target="_blank">
-  <img  align="center"  src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:40px;">
+<a href=" https://www.facebook.com/profile.php?id=100024740268563" target="_blank"> <img  align="center"  src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook"   height="30" style="width:40px;">
 </a>
 
  
